@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="https://cdn.pixabay.com/photo/2024/05/12/18/31/woman-8757555_1280.png"
-     alt="Female Developer Working on Laptop"
-     width="350"/>
+
+
+<img src="https://ouch-cdn2.icons8.com/6Q7l8QvJr8s6Zs1qYQYjX1V9vP2bQm6Xl7Q3QxYQfQ/rs:fit:512:512/czM6Ly9pY29uczgvb3VjaC1pbGx1c3RyYXRpb25zL2ZpbGVzLzQwOC82NmQ0ZjQ0Ny1mZTFkLTQ0NDItYWE2Mi03N2U4Y2RmNmQ4YjYucG5n.png"
+     alt="Female Developer"
+     width="320" />
+
 
 <br><br>
 

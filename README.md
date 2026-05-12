@@ -1,14 +1,13 @@
-# 🎨 Clean & Modern GitHub Profile README for Reeta Uti
-
-This version uses a simple 2–3 color palette (purple, blue, and white) and keeps your name static while only the role text animates.
-
-```markdown
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:4FACFE&height=220&section=header&text=Reeta%20Upreti&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:6C63FF,100:4FACFE&height=260&section=header&text=Reeta%20Upreti&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=20" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=M.Tech+CSE+Student;Full+Stack+Developer;AI%2FML+Enthusiast;Open+to+Opportunities" />
+  <img src="https://github.com/Reetaupreti.png" width="180" style="border-radius: 50%;" alt="Reeta Upreti" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=750&lines=M.Tech+CSE+Student;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Impactful+Software+Solutions" />
 </p>
 
 <p align="center">
@@ -86,62 +85,4 @@ AI-powered platform to discover relevant government schemes.
 
 ---
 
-## 💼 Internship Experience
-
-### Schneider Electric — Intern
-**July 2022 – August 2022**
-
-- Worked with industrial UPS systems and power management workflows.
-- Assisted in monitoring and diagnostics.
-- Collaborated with engineering teams.
-
----
-
-## 🎓 Education
-
-| Degree | Institute | CGPA |
-|------|------|------:|
-| M.Tech CSE | Faculty of Technology, Dehradun | 8.0 |
-| B.Tech CSE | Birla Institute of Applied Sciences, Bhimtal | 8.0 |
-
----
-
-## 🏆 Achievements
-
-- 🥇 1st Position in University-Level SOCIO-HACKATHON
-- 🚀 Startup Uttarakhand Grand Challenge Participant
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Reetaupreti&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reetaupreti&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:reetaupreti78@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/reeta-upreti-20770337b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Reetaupreti&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile! 🚀
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:4FACFE&height=100&section=footer" />
-</p>
-```

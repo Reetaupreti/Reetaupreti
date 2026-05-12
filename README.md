@@ -2,19 +2,17 @@
 
 <img src="https://raw.githubusercontent.com/Reetaupreti/Reetaupreti/main/image.png"
      alt="Female Developer Working on Laptop"
-     width="380" />
+     width="320" />
 
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=M.Tech+CSE+Postgraduate;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Innovative+Software+Solutions"
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&height=80&lines=M.Tech+CSE+Postgraduate;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Innovative+Software+Solutions"
      alt="Typing SVG" />
 
-<br><br>
+<p>
+📍 <b>Dehradun, India</b> &nbsp; | &nbsp;
+📧 <b>reetaupreti78@gmail.com</b>
+</p>
 
-📍 **Dehradun, India** &nbsp; | &nbsp; 📧 **reetaupreti78@gmail.com**
-
-<br><br>
-
+<p>
 <a href="https://www.linkedin.com/in/reeta-upreti-20770337b/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -24,6 +22,7 @@
 <a href="https://moonlit-lokum-e0474b.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+</p>
 
 </div>
 
@@ -70,7 +69,7 @@ Computer Science postgraduate specializing in Full Stack Development and Artific
 
 ---
 
-### 📚 Online E-Book Creator Platform
+### 📚 Online eBook Creator Platform
 **Tech Stack:** HTML5 • CSS3 • JavaScript • PHP • MySQL
 
 - Developed a full-stack web application enabling authors to create, format, publish, and manage digital books.

@@ -1,13 +1,11 @@
 <div align="center">
 
-<!-- Girl Developer Illustration -->
-<img src="https://img.freepik.com/free-vector/woman-working-laptop-concept-illustration_114360-2387.jpg"
-     alt="Female Developer"
-     width="320"/>
+<!-- Female Developer Illustration -->
+<img src="https://icons8.com/illustrations/illustration/florid-female-software-developer-working-on-laptop" width="320" alt="Female Developer Working on Laptop" />
 
 <br><br>
 
-<!-- Animated Typing Text -->
+<!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=M.Tech+CSE+Postgraduate;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Innovative+Software+Solutions" alt="Typing SVG" />
 
 <br><br>
@@ -71,7 +69,7 @@ Computer Science postgraduate specializing in Full Stack Development and Artific
 
 ---
 
-### 📚 Online eBook Creator Platform
+### 📚 Online E-Book Creator Platform
 **Tech Stack:** HTML5, CSS3, JavaScript, PHP, MySQL
 
 - Enables authors to create, format, publish, and manage digital books.
@@ -103,3 +101,5 @@ Computer Science postgraduate specializing in Full Stack Development and Artific
 - LinkedIn: https://www.linkedin.com/in/reeta-upreti-20770337b/
 - GitHub: https://github.com/Reetaupreti
 - Portfolio: https://moonlit-lokum-e0474b.netlify.app/
+
+<!-- Illustration reference inspired by Icons8 artwork -->

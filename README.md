@@ -1,82 +1,81 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Reeta+Upreti+👋;Full+Stack+Developer;AI%2FML+Enthusiast;M.Tech+CSE+Student" />
+# 🎨 Clean & Modern GitHub Profile README for Reeta Uti
+
+This version uses a simple 2–3 color palette (purple, blue, and white) and keeps your name static while only the role text animates.
+
+```markdown
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:4FACFE&height=220&section=header&text=Reeta%20Upreti&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Dehradun,%20India-green?style=for-the-badge&logo=googlemaps" />
-  <img src="https://img.shields.io/badge/M.Tech-CSE-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-orange?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=M.Tech+CSE+Student;Full+Stack+Developer;AI%2FML+Enthusiast;Open+to+Opportunities" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/reeta-upreti-20770337b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Reetaupreti">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://moonlit-lokum-e0474b.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## ✨ About Me
 
-Computer Science postgraduate with expertise in Full Stack Development, Artificial Intelligence, and Machine Learning. I enjoy building scalable applications and intelligent systems that solve real-world problems.
-
-- 🔭 Currently working on AI-powered and full-stack projects
-- 🌱 Learning advanced Machine Learning and Cloud Technologies
-- 💡 Interested in Software Development, AI/ML, and System Design
-- 🎯 Seeking opportunities to contribute to impactful products
+- 🎓 Pursuing M.Tech in Computer Science & Engineering
+- 💻 Full Stack Developer with a strong interest in AI/ML
+- 🚀 Passionate about building impactful software solutions
+- 🌱 Currently exploring Advanced AI, Cloud Computing, and System Design
+- 📍 Dehradun, Uttarakhand, India
 
 ---
 
-## 🚀 Technical Skills
+## 🛠️ Tech Stack
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
+</p>
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,php" />
+</p>
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
 
-### 🤖 AI/ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=flat-square)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+### ☁️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,aws,vscode" />
+</p>
 
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### 🤖 AI / ML
+`Machine Learning` • `Deep Learning` • `TensorFlow` • `Computer Vision`
 
 ---
 
-## 🏆 Featured Projects
+## 🚀 Featured Projects
 
 ### 📚 Online EBook Creator Platform
-A full-stack platform for creating, publishing, and managing digital books.
+Full-stack platform for creating, publishing, and managing digital books.
 
 🔗 https://ebook-uhfw.vercel.app/
 
 ### 🎭 Real-Time Facial Emotion Detection
-Detects emotions in real time using webcam and TensorFlow.js.
+Detects emotions in real time using TensorFlow.js.
 
 🔗 https://luxury-dasik-b1642f.netlify.app/
 
@@ -87,42 +86,62 @@ AI-powered platform to discover relevant government schemes.
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Internship Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reetaupreti&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reetaupreti&layout=compact&theme=tokyonight" height="180"/>
-</p>
+### Schneider Electric — Intern
+**July 2022 – August 2022**
+
+- Worked with industrial UPS systems and power management workflows.
+- Assisted in monitoring and diagnostics.
+- Collaborated with engineering teams.
 
 ---
 
-## 🏅 Achievements
+## 🎓 Education
+
+| Degree | Institute | CGPA |
+|------|------|------:|
+| M.Tech CSE | Faculty of Technology, Dehradun | 8.0 |
+| B.Tech CSE | Birla Institute of Applied Sciences, Bhimtal | 8.0 |
+
+---
+
+## 🏆 Achievements
 
 - 🥇 1st Position in University-Level SOCIO-HACKATHON
-- 🚀 Participant, Startup Uttarakhand Grand Challenge 2022–23
+- 🚀 Startup Uttarakhand Grand Challenge Participant
 
 ---
 
-## 📜 Certifications
+## 📈 GitHub Stats
 
-- NPTEL Software Conceptual Design — Elite + Silver
-- NASSCOM Full Stack Web Development — Gold
-- IBM Cloud Computing Fundamentals
-- Jovian Data Analysis with Python
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Reetaupreti&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reetaupreti&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/reeta-upreti-20770337b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Reeta%20Upreti-blue?style=for-the-badge&logo=linkedin" />
-  </a>
   <a href="mailto:reetaupreti78@gmail.com">
-    <img src="https://img.shields.io/badge/Email-reetaupreti78%40gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/reeta-upreti-20770337b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/Reetaupreti">Reeta Upreti</a>
+  <img src="https://komarev.com/ghpvc/?username=Reetaupreti&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
 </p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! 🚀
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:4FACFE&height=100&section=footer" />
+</p>
+```

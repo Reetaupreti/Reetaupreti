@@ -1,12 +1,13 @@
 <div align="center">
 
-<!-- Female Developer Illustration -->
-<img src="https://icons8.com/illustrations/illustration/florid-female-software-developer-working-on-laptop" width="320" alt="Female Developer Working on Laptop" />
+<img src="https://cdn.pixabay.com/photo/2024/05/12/18/31/woman-8757555_1280.png"
+     alt="Female Developer Working on Laptop"
+     width="350"/>
 
 <br><br>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=M.Tech+CSE+Postgraduate;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Innovative+Software+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=M.Tech+CSE+Postgraduate;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Innovative+Software+Solutions"
+     alt="Typing SVG" />
 
 <br><br>
 
@@ -48,58 +49,44 @@ Computer Science postgraduate specializing in Full Stack Development and Artific
 ## 🏆 Projects
 
 ### 🎭 Real-Time Facial Emotion Detection Model
-**Tech Stack:** ReactJS, TensorFlow.js, face-api.js, Python
+**Tech Stack:** ReactJS • TensorFlow.js • face-api.js • Python
 
 - Detects 15+ emotions in real time.
 - Dynamic UI updates based on detected emotions.
 - 100% client-side processing with no server calls.
 
-🔗 Live Demo: https://luxury-dasik-b1642f.netlify.app/
+🔗 Live Demo:  
+https://luxury-dasik-b1642f.netlify.app/
 
 ---
 
 ### 🏛️ Invicta — Government Scheme Finder
-**Tech Stack:** React.js, Node.js, MongoDB, REST APIs, Cohere API
+**Tech Stack:** React.js • Node.js • MongoDB • REST APIs • Cohere API
 
 - Finds relevant government schemes within seconds.
 - Hybrid keyword and vector search with reranking.
 - Improved retrieval accuracy by ~28%.
 
-🔗 Live Demo: https://cheery-conkies-5503bd.netlify.app/
+🔗 Live Demo:  
+https://cheery-conkies-5503bd.netlify.app/
 
 ---
 
 ### 📚 Online E-Book Creator Platform
-**Tech Stack:** HTML5, CSS3, JavaScript, PHP, MySQL
+**Tech Stack:** HTML5 • CSS3 • JavaScript • PHP • MySQL
 
-- Enables authors to create, format, publish, and manage digital books.
-- Includes eBook browsing, bookmarks, annotations, and secure transactions.
+- Developed a full-stack web application enabling authors to create, format, publish, and manage digital books.
+- Implemented reader-centric features including bookmarks, annotations, secure purchasing, and personalized recommendations.
 
-🔗 Live Demo: https://ebook-uhfw.vercel.app/
-
----
-
-## 🏅 Achievements
-
-- 🥇 Secured 1st Position at university-level SOCIO-HACKATHON.
-- 🚀 Participated in Startup Uttarakhand Grand Challenge 2022–23.
+🔗 Live Demo:  
+https://ebook-uhfw.vercel.app/
 
 ---
 
-## 📜 Certifications
 
-- NPTEL Software Conceptual Design — Elite + Silver Badge
-- NPTEL Design and Implementation of Human-Computer Interfaces — Elite Badge
-- NASSCOM Full Stack Web Development — Gold Badge
-- IBM Cloud Computing Fundamentals
-- Jovian Data Analysis with Python
-
----
 
 ## 🌐 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/reeta-upreti-20770337b/
 - GitHub: https://github.com/Reetaupreti
 - Portfolio: https://moonlit-lokum-e0474b.netlify.app/
-
-<!-- Illustration reference inspired by Icons8 artwork -->

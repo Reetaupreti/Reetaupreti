@@ -69,7 +69,7 @@ Computer Science postgraduate specializing in Full Stack Development and Artific
 
 ---
 
-### 📚 Online eBook Creator Platform
+### 📚 Online E-Book Creator Platform
 **Tech Stack:** HTML5 • CSS3 • JavaScript • PHP • MySQL
 
 - Developed a full-stack web application enabling authors to create, format, publish, and manage digital books.

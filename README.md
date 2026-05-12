@@ -1,165 +1,111 @@
-# REETA UPRETI
+<div align="center">
 
-🎓 M.Tech CSE Student | Full Stack Developer | AI/ML Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI%2FML+Enthusiast;M.Tech+CSE+Student" alt="Typing SVG" />
 
-📍 Dehradun, India  
-📧 [reetaupreti78@gmail.com](mailto:reetaupreti78@gmail.com)
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/reeta-upreti-20770337b/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Reetaupreti)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://moonlit-lokum-e0474b.netlify.app/)
+<img src="https://komarev.com/ghpvc/?username=Reetaupreti&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Reetaupreti?label=Followers&style=for-the-badge&color=0EA5E9" />
 
----
+<br><br>
 
-# 👩‍💻 About Me
+📍 **Dehradun, India** &nbsp; | &nbsp; 📧 **reetaupreti78@gmail.com**
 
-Computer Science postgraduate skilled in Python, Java, React.js, Node.js, Django, and PHP, with experience in full-stack development, SQL/NoSQL databases, and cloud technologies (AWS). Strong foundation in AI, Machine Learning, and System Design with excellent problem-solving and leadership abilities.
+<br><br>
 
-Currently seeking opportunities to contribute to impactful real-world software and AI solutions.
+<a href="https://www.linkedin.com/in/reeta-upreti-20770337b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Reetaupreti">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://moonlit-lokum-e0474b.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
----
-
-# 🚀 Technical Skills
-
-## Programming Languages
-- Python
-- Java
-- C++
-
-## Frontend
-- React.js
-- HTML5
-- CSS3
-- JavaScript
-
-## Backend
-- Node.js
-- Express.js
-- Django
-- PHP
-- REST APIs
-
-## Databases
-- MySQL
-- MongoDB
-- SQLite
-
-## AI/ML
-- Machine Learning
-- Deep Learning
-- Artificial Intelligence
-
-## Tools & Platforms
-- GitHub
-- AWS
-- VS Code
-- Google Colab
-- Kaggle
+</div>
 
 ---
 
-# 💼 Internship
+## 👩‍💻 About Me
 
-## Schneider Electric — Intern
-📅 July 2022 – August 2022
-
-- Gained practical exposure to industrial UPS systems and power management workflows.
-- Worked on real-time monitoring and diagnostics.
-- Collaborated with technical teams to analyze maintenance procedures and configurations.
+Computer Science postgraduate skilled in Python, Java, React.js, Node.js, Django, and PHP, with experience in full-stack development, SQL/NoSQL databases, AWS, and AI/ML. Passionate about building impactful software solutions and solving real-world problems.
 
 ---
 
-# 🏆 Projects
+## ⚡ Tech Stack & Skills
 
-## 🎭 Real-Time Facial Emotion Detection Model
+<div align="center">
 
-### Tech Stack:
-ReactJS • TensorFlow.js • face-api.js • Python
+<img src="https://skillicons.dev/icons?i=python,java,cpp,react,js,html,css,nodejs,express,django,php,mysql,mongodb,aws,tensorflow,git,github,vscode&perline=9" />
 
-### Features:
-- Detects 15+ emotions in real-time.
-- Uses TinyFaceDetector ML model for efficient face detection.
-- Dynamic emoji and background theme updates based on detected emotions.
-- 100% client-side processing with no server calls or data storage.
-
-🔗 Live Demo:  
-https://luxury-dasik-b1642f.netlify.app/
+</div>
 
 ---
 
-## 🏛️ Invicta — Government Scheme Finder
+## 📊 GitHub Stats
 
-### Tech Stack:
-React.js • Node.js • MongoDB • REST APIs • Cohere API
+<div align="center">
 
-### Features:
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Reetaupreti&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reetaupreti&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 Projects
+
+### 🎭 Real-Time Facial Emotion Detection Model
+**Tech Stack:** ReactJS, TensorFlow.js, face-api.js, Python
+
+- Detects 15+ emotions in real time.
+- Dynamic UI updates based on detected emotions.
+- Fully client-side processing with no server calls.
+
+🔗 Live Demo: https://luxury-dasik-b1642f.netlify.app/
+
+---
+
+### 🏛️ Invicta — Government Scheme Finder
+**Tech Stack:** React.js, Node.js, MongoDB, REST APIs, Cohere API
+
 - Finds relevant government schemes within seconds.
-- Dynamic filtering with zero page reloads.
-- Hybrid keyword + vector search with Cohere cross-encoder reranking.
-- Improved retrieval accuracy by approximately 28%.
+- Hybrid keyword and vector search.
+- Improved retrieval accuracy by ~28%.
 
-🔗 Live Demo:  
-https://cheery-conkies-5503bd.netlify.app/
+🔗 Live Demo: https://cheery-conkies-5503bd.netlify.app/
 
 ---
 
-## 📚 Online eBook Creator Platform
+### 📚 Online eBook Creator Platform
+**Tech Stack:** HTML5, CSS3, JavaScript, PHP, MySQL
 
-### Tech Stack:
-HTML5 • CSS3 • JavaScript • PHP • MySQL
+- Enables authors to create, format, and publish eBooks.
+- Includes bookmarks, annotations, and personalized recommendations.
 
-### Features:
-- Developed a full-stack web application enabling authors to create, format, publish, and manage digital books with cover image uploads, chapter organization, and multilingual support.
-- Implemented reader-centric features including eBook browsing, secure purchasing, bookmarks, annotations, and personalized recommendations with secure authentication and protected transactions.
-
-🔗 Live Demo:  
-https://ebook-uhfw.vercel.app/
+🔗 Live Demo: https://ebook-uhfw.vercel.app/
 
 ---
 
-# 🎓 Education
+## 🏅 Achievements
 
-## Faculty of Technology, Dehradun
-M.Tech (Computer Science & Engineering)  
-📅 2024 – 2026  
-CGPA: 8.0
-
-## Birla Institute of Applied Sciences, Bhimtal
-B.Tech (Computer Science & Engineering)  
-📅 2020 – 2024  
-CGPA: 8.0
+- 🥇 Secured 1st Position in SOCIO-HACKATHON.
+- 🚀 Participated in Startup Uttarakhand Grand Challenge 2022–23.
 
 ---
 
-# 🏅 Achievements
-
-- 🥇 Secured 1st Position at university level in SOCIO-HACKATHON.
-- 🚀 Participated in Startup Uttarakhand Grand Challenge 2022–23 organized by the Government of India.
-
----
-
-# 📜 Certifications
+## 📜 Certifications
 
 - NPTEL Software Conceptual Design — Elite + Silver Badge
-- NPTEL Design and Implementation of Human-Computer Interfaces — Elite Badge
-- NASSCOM FullStack Web Development — Gold Badge
+- NASSCOM Full Stack Web Development — Gold Badge
 - IBM Cloud Computing Fundamentals
-- Jovian Data Analysis with Python
 
 ---
 
-# 📌 Positions of Responsibility
-
-## Indoor Sports Secretary — BIAS Bhimtal
-
-- Organized indoor sports events and tournaments.
-- Managed equipment inventory.
-- Encouraged student participation and teamwork.
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/reeta-upreti-20770337b/
 - GitHub: https://github.com/Reetaupreti
 - Portfolio: https://moonlit-lokum-e0474b.netlify.app/
+- 

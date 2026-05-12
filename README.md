@@ -1,11 +1,8 @@
 <div align="center">
 
-
-
-<img src="https://ouch-cdn2.icons8.com/6Q7l8QvJr8s6Zs1qYQYjX1V9vP2bQm6Xl7Q3QxYQfQ/rs:fit:512:512/czM6Ly9pY29uczgvb3VjaC1pbGx1c3RyYXRpb25zL2ZpbGVzLzQwOC82NmQ0ZjQ0Ny1mZTFkLTQ0NDItYWE2Mi03N2U4Y2RmNmQ4YjYucG5n.png"
-     alt="Female Developer"
-     width="320" />
-
+<img src="https://raw.githubusercontent.com/Reetaupreti/Reetaupreti/main/image.png"
+     alt="Female Developer Working on Laptop"
+     width="380" />
 
 <br><br>
 
@@ -58,8 +55,7 @@ Computer Science postgraduate specializing in Full Stack Development and Artific
 - Dynamic UI updates based on detected emotions.
 - 100% client-side processing with no server calls.
 
-🔗 Live Demo:  
-https://luxury-dasik-b1642f.netlify.app/
+🔗 Live Demo: https://luxury-dasik-b1642f.netlify.app/
 
 ---
 
@@ -70,8 +66,7 @@ https://luxury-dasik-b1642f.netlify.app/
 - Hybrid keyword and vector search with reranking.
 - Improved retrieval accuracy by ~28%.
 
-🔗 Live Demo:  
-https://cheery-conkies-5503bd.netlify.app/
+🔗 Live Demo: https://cheery-conkies-5503bd.netlify.app/
 
 ---
 
@@ -81,12 +76,16 @@ https://cheery-conkies-5503bd.netlify.app/
 - Developed a full-stack web application enabling authors to create, format, publish, and manage digital books.
 - Implemented reader-centric features including bookmarks, annotations, secure purchasing, and personalized recommendations.
 
-🔗 Live Demo:  
-https://ebook-uhfw.vercel.app/
+🔗 Live Demo: https://ebook-uhfw.vercel.app/
 
 ---
 
+## 🏅 Achievements
 
+- 🥇 Secured 1st Position at university-level SOCIO-HACKATHON.
+- 🚀 Participated in Startup Uttarakhand Grand Challenge 2022–23.
+
+---
 
 ## 🌐 Connect With Me
 

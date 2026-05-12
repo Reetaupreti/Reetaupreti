@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C2FF&height=220&section=header&text=Reeta%20Upreti&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=M.Tech%20CSE%20Postgraduate%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=20" />
+<!-- Developer Illustration -->
+<img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="280" alt="Developer Illustration" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=M.Tech+CSE+Postgraduate;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Innovative+Software+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=M.Tech+CSE+Postgraduate;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Innovative+Software+Solutions" alt="Typing SVG" />
 
 <br><br>
 
@@ -28,17 +28,18 @@
 
 ## 👩‍💻 About Me
 
-Computer Science postgraduate specializing in Full Stack Development and Artificial Intelligence. Skilled in Python, Java, React.js, Node.js, Django, PHP, MySQL, and AWS. Passionate about developing scalable applications and intelligent systems that solve real-world problems.
+Computer Science postgraduate specializing in Full Stack Development and Artificial Intelligence. Skilled in Python, Java, React.js, Node.js, Django, PHP, MySQL, MongoDB, and AWS. Passionate about building scalable applications and intelligent systems that solve real-world problems.
 
 ---
 
 ## ⚡ Tech Stack & Skills
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,react,js,html,css,nodejs,express,django,php,mysql,mongodb,aws,tensorflow,git,github,vscode&perline=9" />
-
-</div>
+**Languages:** Python • Java • C++  
+**Frontend:** React.js • HTML5 • CSS3 • JavaScript  
+**Backend:** Node.js • Express.js • Django • PHP • REST APIs  
+**Databases:** MySQL • MongoDB • SQLite  
+**AI/ML:** Machine Learning • Deep Learning • TensorFlow  
+**Tools & Platforms:** Git • GitHub • AWS • VS Code • Google Colab • Kaggle
 
 ---
 
@@ -86,7 +87,7 @@ Computer Science postgraduate specializing in Full Stack Development and Artific
 ## 📜 Certifications
 
 - NPTEL Software Conceptual Design — Elite + Silver Badge
-- NPTEL Human-Computer Interfaces — Elite Badge
+- NPTEL Design and Implementation of Human-Computer Interfaces — Elite Badge
 - NASSCOM Full Stack Web Development — Gold Badge
 - IBM Cloud Computing Fundamentals
 - Jovian Data Analysis with Python

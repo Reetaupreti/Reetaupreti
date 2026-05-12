@@ -1,11 +1,13 @@
 <div align="center">
 
-<!-- Cute Girl Developer Illustration -->
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/female-web-developer-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--woman-girl-programmer-coding-pack-design-development-illustrations-4580746.png" width="320" alt="Female Developer Illustration" />
+<!-- Girl Developer Illustration -->
+<img src="https://img.freepik.com/free-vector/woman-working-laptop-concept-illustration_114360-2387.jpg"
+     alt="Female Developer"
+     width="320"/>
 
-<br>
+<br><br>
 
-<!-- Typing Animation -->
+<!-- Animated Typing Text -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=M.Tech+CSE+Postgraduate;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Innovative+Software+Solutions" alt="Typing SVG" />
 
 <br><br>

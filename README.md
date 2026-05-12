@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI%2FML+Enthusiast;M.Tech+CSE+Student" alt="Typing SVG" />
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C2FF&height=220&section=header&text=Reeta%20Upreti&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=M.Tech%20CSE%20Postgraduate%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=20" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Reetaupreti&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Reetaupreti?label=Followers&style=for-the-badge&color=0EA5E9" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=M.Tech+CSE+Postgraduate;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Innovative+Software+Solutions" />
 
 <br><br>
 
@@ -29,7 +28,7 @@
 
 ## 👩‍💻 About Me
 
-Computer Science postgraduate skilled in Python, Java, React.js, Node.js, Django, and PHP, with experience in full-stack development, SQL/NoSQL databases, AWS, and AI/ML. Passionate about building impactful software solutions and solving real-world problems.
+Computer Science postgraduate specializing in Full Stack Development and Artificial Intelligence. Skilled in Python, Java, React.js, Node.js, Django, PHP, MySQL, and AWS. Passionate about developing scalable applications and intelligent systems that solve real-world problems.
 
 ---
 
@@ -43,17 +42,6 @@ Computer Science postgraduate skilled in Python, Java, React.js, Node.js, Django
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Reetaupreti&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reetaupreti&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🏆 Projects
 
 ### 🎭 Real-Time Facial Emotion Detection Model
@@ -61,7 +49,7 @@ Computer Science postgraduate skilled in Python, Java, React.js, Node.js, Django
 
 - Detects 15+ emotions in real time.
 - Dynamic UI updates based on detected emotions.
-- Fully client-side processing with no server calls.
+- 100% client-side processing with no server calls.
 
 🔗 Live Demo: https://luxury-dasik-b1642f.netlify.app/
 
@@ -71,7 +59,7 @@ Computer Science postgraduate skilled in Python, Java, React.js, Node.js, Django
 **Tech Stack:** React.js, Node.js, MongoDB, REST APIs, Cohere API
 
 - Finds relevant government schemes within seconds.
-- Hybrid keyword and vector search.
+- Hybrid keyword and vector search with reranking.
 - Improved retrieval accuracy by ~28%.
 
 🔗 Live Demo: https://cheery-conkies-5503bd.netlify.app/
@@ -81,8 +69,8 @@ Computer Science postgraduate skilled in Python, Java, React.js, Node.js, Django
 ### 📚 Online eBook Creator Platform
 **Tech Stack:** HTML5, CSS3, JavaScript, PHP, MySQL
 
-- Enables authors to create, format, and publish eBooks.
-- Includes bookmarks, annotations, and personalized recommendations.
+- Enables authors to create, format, publish, and manage digital books.
+- Includes eBook browsing, bookmarks, annotations, and secure transactions.
 
 🔗 Live Demo: https://ebook-uhfw.vercel.app/
 
@@ -90,7 +78,7 @@ Computer Science postgraduate skilled in Python, Java, React.js, Node.js, Django
 
 ## 🏅 Achievements
 
-- 🥇 Secured 1st Position in SOCIO-HACKATHON.
+- 🥇 Secured 1st Position at university-level SOCIO-HACKATHON.
 - 🚀 Participated in Startup Uttarakhand Grand Challenge 2022–23.
 
 ---
@@ -98,8 +86,10 @@ Computer Science postgraduate skilled in Python, Java, React.js, Node.js, Django
 ## 📜 Certifications
 
 - NPTEL Software Conceptual Design — Elite + Silver Badge
+- NPTEL Human-Computer Interfaces — Elite Badge
 - NASSCOM Full Stack Web Development — Gold Badge
 - IBM Cloud Computing Fundamentals
+- Jovian Data Analysis with Python
 
 ---
 
@@ -108,4 +98,3 @@ Computer Science postgraduate skilled in Python, Java, React.js, Node.js, Django
 - LinkedIn: https://www.linkedin.com/in/reeta-upreti-20770337b/
 - GitHub: https://github.com/Reetaupreti
 - Portfolio: https://moonlit-lokum-e0474b.netlify.app/
-- 

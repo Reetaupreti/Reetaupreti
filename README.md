@@ -1,10 +1,12 @@
 <div align="center">
 
-<!-- Developer Illustration -->
-<img src="https://cdn-icons-png.flaticon.com/512/4140/4140048.png" width="280" alt="Developer Illustration" />
+<!-- Cute Girl Developer Illustration -->
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/female-web-developer-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--woman-girl-programmer-coding-pack-design-development-illustrations-4580746.png" width="320" alt="Female Developer Illustration" />
+
+<br>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=M.Tech+CSE+Postgraduate;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Innovative+Software+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=M.Tech+CSE+Postgraduate;Full+Stack+Developer;AI%2FML+Enthusiast;Building+Innovative+Software+Solutions" alt="Typing SVG" />
 
 <br><br>
 
@@ -34,12 +36,12 @@ Computer Science postgraduate specializing in Full Stack Development and Artific
 
 ## ⚡ Tech Stack & Skills
 
-**Languages:** Python • Java • C++  
-**Frontend:** React.js • HTML5 • CSS3 • JavaScript  
-**Backend:** Node.js • Express.js • Django • PHP • REST APIs  
-**Databases:** MySQL • MongoDB • SQLite  
-**AI/ML:** Machine Learning • Deep Learning • TensorFlow  
-**Tools & Platforms:** Git • GitHub • AWS • VS Code • Google Colab • Kaggle
+🐍 **Languages:** Python • Java • C++  
+🎨 **Frontend:** React.js • HTML5 • CSS3 • JavaScript  
+⚙️ **Backend:** Node.js • Express.js • Django • PHP • REST APIs  
+🗄️ **Databases:** MySQL • MongoDB • SQLite  
+🤖 **AI/ML:** Machine Learning • Deep Learning • TensorFlow  
+☁️ **Tools & Platforms:** Git • GitHub • AWS • VS Code • Google Colab • Kaggle
 
 ---
 
